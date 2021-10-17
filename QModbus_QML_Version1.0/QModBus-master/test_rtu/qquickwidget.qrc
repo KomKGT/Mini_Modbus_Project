@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>switcher.qml</file>
+    </qresource>
+</RCC>
