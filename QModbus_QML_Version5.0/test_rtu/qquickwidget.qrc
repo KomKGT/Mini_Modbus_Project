@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>switcher.qml</file>
+        <file>DateAndTime.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
